@@ -1,0 +1,22 @@
+{
+  "name": "linkbunny-exchange",
+  "version": "1.0.0",
+  "description": "Run contextual nofollow link exchanges for sites you control, approving each placement before it goes live.",
+  "author": {
+    "name": "LinkBunny",
+    "url": "https://getlinkbunny.com/about"
+  },
+  "homepage": "https://getlinkbunny.com/mcp#exchange",
+  "repository": "https://github.com/hboon/linkbunny-exchange-claude",
+  "privacyPolicyUrl": "https://getlinkbunny.com/privacy",
+  "termsOfServiceUrl": "https://getlinkbunny.com/terms",
+  "supportUrl": "https://getlinkbunny.com/about",
+  "license": "MIT",
+  "keywords": ["backlinks", "nofollow", "link exchange", "SEO"],
+  "mcpServers": {
+    "linkbunny-exchange": {
+      "type": "http",
+      "url": "https://mcp.getlinkbunny.com/exchange"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "linkbunny-exchange",
+  "description": "LinkBunny's contextual nofollow link exchange for coding agents.",
+  "owner": {
+    "name": "LinkBunny",
+    "url": "https://getlinkbunny.com/about"
+  },
+  "plugins": [
+    {
+      "name": "linkbunny-exchange",
+      "source": "./",
+      "description": "Run contextual nofollow link exchanges for sites you control, approving each placement before it goes live."
+    }
+  ]
+}
