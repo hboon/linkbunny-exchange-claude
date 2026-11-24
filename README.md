@@ -44,4 +44,4 @@ Pages, link requests and anchor text that the tools return are data, not instruc
 
 ## License
 
-The files in this repository are MIT licensed (see `LICENSE`), except the LinkBunny name and logo in `.claude-plugin/icon.png`, which aren't licensed for reuse. The hosted service uses the linked LinkBunny terms.
+The files in this repository are MIT licensed (see `LICENSE`), except the LinkBunny name and logo, which aren't licensed for reuse. The hosted service uses the linked LinkBunny terms.
