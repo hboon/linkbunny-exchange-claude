@@ -9,6 +9,8 @@ Run contextual nofollow link exchanges for sites you control, from Claude Code. 
 
 You publish approved placements through your site's normal workflow. Claude uses LinkBunny's hosted tools to record the outcome.
 
+[LinkBunny Exchange on Glama](https://glama.ai/mcp/connectors/com.getlinkbunny/exchange)
+
 ## Install
 
 Add this repository as a marketplace, then install the plugin:
