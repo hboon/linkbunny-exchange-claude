@@ -11,6 +11,8 @@ The first exchange is free for one site. Paid plans cover more sites. [Plans and
 
 None of the tools edits a website. You or your agent make any page change through your site's normal workflow, after you approve it.
 
+The Skill also documents a separate workflow that sends authorized requests and site details directly to [LinkBunny’s API](https://api.getlinkbunny.com/v1). When you use the hosted connector, the Skill tells Claude to skip the direct API calls.
+
 ## Install
 
 Add this repository as a marketplace, then install the plugin:
